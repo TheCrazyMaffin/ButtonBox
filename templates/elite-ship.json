@@ -103,15 +103,15 @@
           }
         },
         {
-          "image": "",
-          "name": "",
+          "image": "/images/changeMode.svg",
+          "name": "Change mode",
           "colors": {
-            "default": "",
-            "onclick": ""
+            "default": "orange",
+            "onclick": "blue"
           },
           "action": {
-            "type": "none",
-            "value": ""
+            "type": "button",
+            "value": 43
           }
         },
         {
