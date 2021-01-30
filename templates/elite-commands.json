@@ -3,7 +3,7 @@
     {
       "columns": [
         {
-          "image": "/images/land_recall.svg",
+          "image": "/images/elite/land_recall.svg",
           "name": "Recall/Dismiss ship",
           "colors": {
             "default": "orange",
@@ -15,7 +15,7 @@
           }
         },
         {
-          "image": "/images/attack.svg",
+          "image": "/images/elite/attack.svg",
           "name": "Attack target",
           "colors": {
             "default": "red",
@@ -27,7 +27,7 @@
           }
         },
         {
-          "image": "/images/engageAtWill.svg",
+          "image": "/images/elite/engageAtWill.svg",
           "name": "Engage at will",
           "colors": {
             "default": "red",
@@ -39,7 +39,7 @@
           }
         },
         {
-          "image": "/images/hold.svg",
+          "image": "/images/elite/hold.svg",
           "name": "Hold",
           "colors": {
             "default": "orange-light",
@@ -51,7 +51,7 @@
           }
         },
         {
-          "image": "/images/follow.svg",
+          "image": "/images/elite/follow.svg",
           "name": "Follow me",
           "colors": {
             "default": "orange-light",
@@ -67,7 +67,7 @@
     {
       "columns": [
         {
-          "image": "/images/land_recall.svg",
+          "image": "/images/elite/land_recall.svg",
           "name": "Recall fighter",
           "colors": {
             "default": "orange-light",
@@ -79,7 +79,7 @@
           }
         },
         {
-          "image": "/images/defend.svg",
+          "image": "/images/elite/defend.svg",
           "name": "Defend",
           "colors": {
             "default": "orange-light",
@@ -91,7 +91,7 @@
           }
         },
         {
-          "image": "/images/maintainFormation.svg",
+          "image": "/images/elite/maintainFormation.svg",
           "name": "Maintain formation",
           "colors": {
             "default": "orange-light",
@@ -115,7 +115,7 @@
           }
         },
         {
-          "image": "/images/home.svg",
+          "image": "/images/elite/home.svg",
           "name": "Home",
           "colors": {
             "default": "green",

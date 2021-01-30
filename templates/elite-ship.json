@@ -3,7 +3,7 @@
     {
       "columns": [
         {
-          "image": "/images/light.svg",
+          "image": "/images/elite/light.svg",
           "name": "Lights",
           "colors": {
             "default": "orange",
@@ -15,7 +15,7 @@
           }
         },
         {
-          "image": "/images/nightvision.svg",
+          "image": "/images/elite/nightvision.svg",
           "name": "Night vision",
           "colors": {
             "default": "orange",
@@ -39,7 +39,7 @@
           }
         },
         {
-          "image": "/images/zoomIn.svg",
+          "image": "/images/elite/zoomIn.svg",
           "name": "Sensor zoom +",
           "colors": {
             "default": "orange-light",
@@ -51,7 +51,7 @@
           }
         },
         {
-          "image": "/images/zoomOut.svg",
+          "image": "/images/elite/zoomOut.svg",
           "name": "Sensor zoom -",
           "colors": {
             "default": "orange-light",
@@ -67,7 +67,7 @@
     {
       "columns": [
         {
-          "image": "/images/land_recall.svg",
+          "image": "/images/elite/land_recall.svg",
           "name": "Gear",
           "colors": {
             "default": "orange",
@@ -79,7 +79,7 @@
           }
         },
         {
-          "image": "/images/cargo.svg",
+          "image": "/images/elite/cargo.svg",
           "name": "Cargo scoop",
           "colors": {
             "default": "orange",
@@ -103,7 +103,7 @@
           }
         },
         {
-          "image": "/images/changeMode.svg",
+          "image": "/images/elite/changeMode.svg",
           "name": "Change mode",
           "colors": {
             "default": "orange",
@@ -115,7 +115,7 @@
           }
         },
         {
-          "image": "/images/home.svg",
+          "image": "/images/elite/home.svg",
           "name": "Home",
           "colors": {
             "default": "green",

@@ -3,7 +3,7 @@
     {
       "columns": [
         {
-          "image": "/images/targeting.svg",
+          "image": "/images/elite/targeting.svg",
           "name": "Targeting",
           "colors": {
             "default": "orange-light",
@@ -39,7 +39,7 @@
           }
         },
         {
-          "image": "/images/python.svg",
+          "image": "/images/elite/python.svg",
           "name": "Ship",
           "colors": {
             "default": "orange",
@@ -51,7 +51,7 @@
           }
         },
         {
-          "image": "/images/power.svg",
+          "image": "/images/elite/power.svg",
           "name": "Power",
           "colors": {
             "default": "orange",
@@ -67,7 +67,7 @@
     {
       "columns": [
         {
-          "image": "/images/combat.svg",
+          "image": "/images/elite/combat.svg",
           "name": "Combat",
           "colors": {
             "default": "red",
@@ -79,7 +79,7 @@
           }
         },
         {
-          "image": "/images/commands.svg",
+          "image": "/images/elite/commands.svg",
           "name": "Commands",
           "colors": {
             "default": "orange-light",
@@ -103,7 +103,7 @@
           }
         },
         {
-          "image": "/images/flightcontrol.svg",
+          "image": "/images/elite/flightcontrol.svg",
           "name": "Flight control",
           "colors": {
             "default": "orange",
@@ -115,7 +115,7 @@
           }
         },
         {
-          "image": "/images/galmap.svg",
+          "image": "/images/elite/galmap.svg",
           "name": "Navigation",
           "colors": {
             "default": "orange",

@@ -27,7 +27,7 @@
           }
         },
         {
-          "image": "/images/arrowUp.svg",
+          "image": "/images/elite/arrowUp.svg",
           "name": "ENG",
           "colors": {
             "default": "orange",
@@ -79,7 +79,7 @@
           }
         },
         {
-          "image": "/images/arrowLeft.svg",
+          "image": "/images/elite/arrowLeft.svg",
           "name": "SYS",
           "colors": {
             "default": "orange",
@@ -91,7 +91,7 @@
           }
         },
         {
-          "image": "/images/arrowDown.svg",
+          "image": "/images/elite/arrowDown.svg",
           "name": "RST",
           "colors": {
             "default": "orange",
@@ -103,7 +103,7 @@
           }
         },
         {
-          "image": "/images/arrowRight.svg",
+          "image": "/images/elite/arrowRight.svg",
           "name": "WEP",
           "colors": {
             "default": "orange",
@@ -115,7 +115,7 @@
           }
         },
         {
-          "image": "/images/home.svg",
+          "image": "/images/elite/home.svg",
           "name": "Home",
           "colors": {
             "default": "green",

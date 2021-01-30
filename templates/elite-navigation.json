@@ -3,7 +3,7 @@
     {
       "columns": [
         {
-          "image": "/images/galmap.svg",
+          "image": "/images/elite/galmap.svg",
           "name": "Galaxy map",
           "colors": {
             "default": "orange-light",
@@ -15,7 +15,7 @@
           }
         },
         {
-          "image": "/images/mapmarker.svg",
+          "image": "/images/elite/mapmarker.svg",
           "name": "Next system on route",
           "colors": {
             "default": "orange",
@@ -67,7 +67,7 @@
     {
       "columns": [
         {
-          "image": "/images/sysmap.svg",
+          "image": "/images/elite/sysmap.svg",
           "name": "System map",
           "colors": {
             "default": "orange-light",
@@ -79,7 +79,7 @@
           }
         },
         {
-          "image": "/images/fss.svg",
+          "image": "/images/elite/fss.svg",
           "name": "FSS",
           "colors": {
             "default": "blue",
@@ -115,7 +115,7 @@
           }
         },
         {
-          "image": "/images/home.svg",
+          "image": "/images/elite/home.svg",
           "name": "Home",
           "colors": {
             "default": "green",

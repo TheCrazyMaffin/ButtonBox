@@ -3,7 +3,7 @@
     {
       "columns": [
         {
-          "image": "/images/targeting.svg",
+          "image": "/images/elite/targeting.svg",
           "name": "Target ahead",
           "colors": {
             "default": "orange",
@@ -15,7 +15,7 @@
           }
         },
         {
-          "image": "/images/nextUp.svg",
+          "image": "/images/elite/elite/nextUp.svg",
           "name": "Next firegroup",
           "colors": {
             "default": "orange",
@@ -27,7 +27,7 @@
           }
         },
         {
-          "image": "/images/silent.svg",
+          "image": "/images/elite/silent.svg",
           "name": "Silent running",
           "colors": {
             "default": "blue",
@@ -39,7 +39,7 @@
           }
         },
         {
-          "image": "/images/heatsink.svg",
+          "image": "/images/elite/heatsink.svg",
           "name": "Heatsink",
           "colors": {
             "default": "orange-light",
@@ -51,7 +51,7 @@
           }
         },
         {
-          "image": "/images/chaff.svg",
+          "image": "/images/elite/chaff.svg",
           "name": "Chaff",
           "colors": {
             "default": "orange-light",
@@ -67,7 +67,7 @@
     {
       "columns": [
         {
-          "image": "/images/targetingNext.svg",
+          "image": "/images/elite/targetingNext.svg",
           "name": "Next target",
           "colors": {
             "default": "orange",
@@ -79,7 +79,7 @@
           }
         },
         {
-          "image": "/images/nextDown.svg",
+          "image": "/images/elite/nextDown.svg",
           "name": "Previous firegroup",
           "colors": {
             "default": "orange",
@@ -91,7 +91,7 @@
           }
         },
         {
-          "image": "/images/hardpoints.svg",
+          "image": "/images/elite/hardpoints.svg",
           "name": "Hardpoints",
           "colors": {
             "default": "red",
@@ -115,7 +115,7 @@
           }
         },
         {
-          "image": "/images/home.svg",
+          "image": "/images/elite/home.svg",
           "name": "Home",
           "colors": {
             "default": "green",

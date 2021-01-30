@@ -3,7 +3,7 @@
     {
       "columns": [
         {
-          "image": "/images/speed75.svg",
+          "image": "/images/elite/speed75.svg",
           "name": "Speed 75%",
           "colors": {
             "default": "orange",
@@ -15,7 +15,7 @@
           }
         },
         {
-          "image": "/images/reverse.svg",
+          "image": "/images/elite/reverse.svg",
           "name": "Reverse",
           "colors": {
             "default": "orange",
@@ -27,7 +27,7 @@
           }
         },
         {
-          "image": "/images/supercruise.svg",
+          "image": "/images/elite/supercruise.svg",
           "name": "Supercruise",
           "colors": {
             "default": "orange-light",
@@ -51,7 +51,7 @@
           }
         },
         {
-          "image": "/images/orbitlines.svg",
+          "image": "/images/elite/orbitlines.svg",
           "name": "Orbit lines",
           "colors": {
             "default": "orange-light",
@@ -67,7 +67,7 @@
     {
       "columns": [
         {
-          "image": "/images/speed0.svg",
+          "image": "/images/elite/speed0.svg",
           "name": "Speed 0%",
           "colors": {
             "default": "orange",
@@ -79,7 +79,7 @@
           }
         },
         {
-          "image": "/images/assist.svg",
+          "image": "/images/elite/assist.svg",
           "name": "Flight assist",
           "colors": {
             "default": "orange",
@@ -91,7 +91,7 @@
           }
         },
         {
-          "image": "/images/frameshift.svg",
+          "image": "/images/elite/frameshift.svg",
           "name": "Frameshift",
           "colors": {
             "default": "orange-light",
@@ -115,7 +115,7 @@
           }
         },
         {
-          "image": "/images/home.svg",
+          "image": "/images/elite/home.svg",
           "name": "Home",
           "colors": {
             "default": "green",

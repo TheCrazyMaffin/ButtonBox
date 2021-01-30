@@ -3,7 +3,7 @@
     {
       "columns": [
         {
-          "image": "/images/targeting.svg",
+          "image": "/images/elite/targeting.svg",
           "name": "Wingman target",
           "colors": {
             "default": "orange-light",
@@ -15,7 +15,7 @@
           }
         },
         {
-          "image": "/images/navlock.svg",
+          "image": "/images/elite/navlock.svg",
           "name": "Wingman navlock",
           "colors": {
             "default": "orange-light",
@@ -39,7 +39,7 @@
           }
         },
         {
-          "image": "/images/mapmarker.svg",
+          "image": "/images/elite/mapmarker.svg",
           "name": "Next system on route",
           "colors": {
             "default": "orange",
@@ -51,7 +51,7 @@
           }
         },
         {
-          "image": "/images/next.svg",
+          "image": "/images/elite/next.svg",
           "name": "Next target",
           "colors": {
             "default": "orange",
@@ -67,7 +67,7 @@
     {
       "columns": [
         {
-          "image": "/images/wing1.svg",
+          "image": "/images/elite/wing1.svg",
           "name": "Select Wingman 1",
           "colors": {
             "default": "",
@@ -79,7 +79,7 @@
           }
         },
         {
-          "image": "/images/wing2.svg",
+          "image": "/images/elite/wing2.svg",
           "name": "Select Wingman 2",
           "colors": {
             "default": "",
@@ -91,7 +91,7 @@
           }
         },
         {
-          "image": "/images/wing3.svg",
+          "image": "/images/elite/wing3.svg",
           "name": "Select Wingman 3",
           "colors": {
             "default": "",
@@ -115,7 +115,7 @@
           }
         },
         {
-          "image": "/images/home.svg",
+          "image": "/images/elite/home.svg",
           "name": "Home",
           "colors": {
             "default": "green",
