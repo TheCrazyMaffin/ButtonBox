@@ -1,0 +1,132 @@
+{
+  "rows": [
+    {
+      "columns": [
+        {
+          "image": "/images/galmap.svg",
+          "name": "Galaxy map",
+          "colors": {
+            "default": "orange-light",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 32
+          }
+        },
+        {
+          "image": "/images/mapmarker.svg",
+          "name": "Next system on route",
+          "colors": {
+            "default": "orange",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 13
+          }
+        },
+        {
+          "image": "",
+          "name": "",
+          "colors": {
+            "default": "",
+            "onclick": ""
+          },
+          "action": {
+            "type": "none",
+            "value": ""
+          }
+        },
+        {
+          "image": "",
+          "name": "",
+          "colors": {
+            "default": "",
+            "onclick": ""
+          },
+          "action": {
+            "type": "none",
+            "value": ""
+          }
+        },
+        {
+          "image": "",
+          "name": "",
+          "colors": {
+            "default": "",
+            "onclick": ""
+          },
+          "action": {
+            "type": "none",
+            "value": ""
+          }
+        }
+      ]
+    },
+    {
+      "columns": [
+        {
+          "image": "/images/sysmap.svg",
+          "name": "System map",
+          "colors": {
+            "default": "orange-light",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 33
+          }
+        },
+        {
+          "image": "/images/fss.svg",
+          "name": "FSS",
+          "colors": {
+            "default": "blue",
+            "onclick": "blue-light"
+          },
+          "action": {
+            "type": "button",
+            "value": 34
+          }
+        },
+        {
+          "image": "",
+          "name": "",
+          "colors": {
+            "default": "",
+            "onclick": ""
+          },
+          "action": {
+            "type": "none",
+            "value": ""
+          }
+        },
+        {
+          "image": "",
+          "name": "",
+          "colors": {
+            "default": "",
+            "onclick": ""
+          },
+          "action": {
+            "type": "none",
+            "value": ""
+          }
+        },
+        {
+          "image": "/images/home.svg",
+          "name": "Home",
+          "colors": {
+            "default": "green",
+            "onclick": "blue"
+          },
+          "action": {
+              "type": "link",
+            "value": "elite"
+          }
+        }
+      ]
+    }
+  ]
+}

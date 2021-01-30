@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="500"
+   height="500"
+   viewBox="0 0 500 500"
+   enable-background="new 0 0 1997.656 1400.364"
+   xml:space="preserve"
+   id="svg14"
+   sodipodi:docname="attack.svg"
+   inkscape:version="1.1-dev (25441a5, 2020-10-26)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs18" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1057"
+   id="namedview16"
+   showgrid="false"
+   width="500px"
+   inkscape:zoom="1.1833869"
+   inkscape:cx="256.88977"
+   inkscape:cy="210.83552"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg14" />
+
+<g
+   id="g842"
+   transform="matrix(0.25029334,0,0,0.25029334,3.79448e-6,74.749109)"><g
+     id="Layer_2">
+	<g
+   id="g8">
+		<polygon
+   points="1620.972,872.25 1244.288,1400.364 1997.656,1400.364 "
+   id="polygon2" />
+		<polygon
+   points="627.671,520.364 1369.984,520.364 998.828,0 "
+   id="polygon4" />
+		<polygon
+   points="753.368,1400.364 376.684,872.25 0,1400.364 "
+   id="polygon6" />
+	</g>
+</g><g
+     id="Layer_3">
+	<circle
+   opacity="0.75"
+   cx="998.828"
+   cy="946.93298"
+   r="184.545"
+   id="circle11" />
+</g></g>
+</svg>

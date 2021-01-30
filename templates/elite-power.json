@@ -1,0 +1,132 @@
+{
+  "rows": [
+    {
+      "columns": [
+        {
+          "image": "",
+          "name": "",
+          "colors": {
+            "default": "",
+            "onclick": ""
+          },
+          "action": {
+            "type": "none",
+            "value": ""
+          }
+        },
+        {
+          "image": "",
+          "name": "",
+          "colors": {
+            "default": "",
+            "onclick": ""
+          },
+          "action": {
+            "type": "none",
+            "value": ""
+          }
+        },
+        {
+          "image": "/images/arrowUp.svg",
+          "name": "ENG",
+          "colors": {
+            "default": "orange",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 28
+          }
+        },
+        {
+          "image": "",
+          "name": "",
+          "colors": {
+            "default": "",
+            "onclick": ""
+          },
+          "action": {
+            "type": "none",
+            "value": ""
+          }
+        },
+        {
+          "image": "",
+          "name": "",
+          "colors": {
+            "default": "",
+            "onclick": ""
+          },
+          "action": {
+            "type": "none",
+            "value": ""
+          }
+        }
+      ]
+    },
+    {
+      "columns": [
+        {
+          "image": "",
+          "name": "",
+          "colors": {
+            "default": "",
+            "onclick": ""
+          },
+          "action": {
+            "type": "none",
+            "value": ""
+          }
+        },
+        {
+          "image": "/images/arrowLeft.svg",
+          "name": "SYS",
+          "colors": {
+            "default": "orange",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 30
+          }
+        },
+        {
+          "image": "/images/arrowDown.svg",
+          "name": "RST",
+          "colors": {
+            "default": "orange",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 31
+          }
+        },
+        {
+          "image": "/images/arrowRight.svg",
+          "name": "WEP",
+          "colors": {
+            "default": "orange",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 29
+          }
+        },
+        {
+          "image": "/images/home.svg",
+          "name": "Home",
+          "colors": {
+            "default": "green",
+            "onclick": "blue"
+          },
+          "action": {
+              "type": "link",
+            "value": "elite"
+          }
+        }
+      ]
+    }
+  ]
+}

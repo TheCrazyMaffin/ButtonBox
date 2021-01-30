@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="500"
+   height="500"
+   viewBox="0 0 500 500"
+   enable-background="new 0 0 1858 1646.5"
+   xml:space="preserve"
+   id="svg10"
+   sodipodi:docname="land_recall.svg"
+   inkscape:version="1.1-dev (25441a5, 2020-10-26)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs14" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1057"
+   id="namedview12"
+   showgrid="false"
+   width="500px"
+   inkscape:zoom="0.53021561"
+   inkscape:cx="671.42497"
+   inkscape:cy="104.6744"
+   inkscape:window-x="1912"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg10" />
+
+<g
+   id="g836"
+   transform="translate(0,28.458016)"><g
+     id="Point"
+     transform="scale(0.26910657)">
+	<g
+   id="g4">
+		<path
+   d="m 1390.16,1006.04 -98.92,82.092 c 320.518,30.92 409.76,102.049 409.76,145.046 0,111.846 -344.562,153.822 -770.654,153.822 -426.091,0 -772.854,-41.976 -772.854,-153.822 0,-43.003 89.258,-114.146 409.664,-145.059 l -99.024,-82.115 C 102.644,1051.189 0,1151.994 0,1237.031 0,1463.175 415.927,1646.5 929,1646.5 c 513.073,0 929,-183.325 929,-409.469 0,-85.013 -102.591,-185.787 -467.84,-230.991 z"
+   id="path2" />
+	</g>
+</g><g
+     id="Arrow"
+     transform="scale(0.26910657)">
+	<polygon
+   points="396.791,508.886 259.17,674.854 929.229,1230.461 1598.849,674.854 1461.229,508.886 1032,864.798 1032,0 826,0 826,864.782 "
+   id="polygon7" />
+</g></g>
+</svg>

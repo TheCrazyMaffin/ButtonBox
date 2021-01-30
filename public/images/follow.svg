@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="Layer_2"
+   x="0px"
+   y="0px"
+   width="500"
+   height="500"
+   viewBox="0 0 499.99999 499.99998"
+   enable-background="new 0 0 1106.437 867.728"
+   xml:space="preserve"
+   sodipodi:docname="follow.svg"
+   inkscape:version="1.1-dev (25441a5, 2020-10-26)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs11" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1057"
+   id="namedview9"
+   showgrid="false"
+   width="500px"
+   inkscape:zoom="0.2515189"
+   inkscape:cx="-290.23664"
+   inkscape:cy="598.36457"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_2" />
+<g
+   id="g6"
+   transform="matrix(0.45179893,0,0,0.45179893,0.22589824,53.856916)">
+	<polygon
+   points="-0.5,867.728 0.048,868.276 434.187,434.137 0.048,0 -0.5,0.547 -0.5,264.299 169.338,434.137 -0.5,603.976 "
+   id="polygon2" />
+	<polygon
+   points="671.5,867.728 672.049,868.276 1106.187,434.137 672.049,0 671.5,0.547 671.5,264.299 841.338,434.137 671.5,603.976 "
+   id="polygon4" />
+</g>
+</svg>

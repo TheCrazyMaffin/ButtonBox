@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="500"
+   viewBox="0 0 500 500"
+   width="500"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="heatsink.svg"
+   inkscape:version="1.1-dev (25441a5, 2020-10-26)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1278"
+     inkscape:window-height="1041"
+     id="namedview8"
+     showgrid="false"
+     width="500px"
+     inkscape:zoom="0.80378154"
+     inkscape:cx="307.29743"
+     inkscape:cy="422.37845"
+     inkscape:window-x="1913"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <g
+     id="g829"
+     transform="matrix(20.833333,0,0,20.833333,0,4e-6)">
+    <path
+       d="M 0,0 H 24 V 24 H 0 Z"
+       fill="none"
+       id="path2" />
+    <path
+       d="M 22,11 H 17.83 L 21.07,7.76 19.66,6.34 15,11 H 13 V 9 L 17.66,4.34 16.24,2.93 13,6.17 V 2 H 11 V 6.17 L 7.76,2.93 6.34,4.34 11,9 v 2 H 9 L 4.34,6.34 2.93,7.76 6.17,11 H 2 v 2 H 6.17 L 2.93,16.24 4.34,17.66 9,13 h 2 v 2 L 6.34,19.66 7.76,21.07 11,17.83 V 22 h 2 v -4.17 l 3.24,3.24 1.42,-1.41 L 13,15 v -2 h 2 l 4.66,4.66 1.41,-1.42 L 17.83,13 H 22 Z"
+       id="path4" />
+  </g>
+</svg>

@@ -1,0 +1,132 @@
+{
+  "rows": [
+    {
+      "columns": [
+        {
+          "image": "/images/targeting.svg",
+          "name": "Targeting",
+          "colors": {
+            "default": "orange-light",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "link",
+            "value": "elite-targeting"
+          }
+        },
+        {
+          "image": "",
+          "name": "",
+          "colors": {
+            "default": "orange",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "none",
+            "value": ""
+          }
+        },
+        {
+          "image": "",
+          "name": "",
+          "colors": {
+            "default": "orange-light",
+            "onclick": "blue-light"
+          },
+          "action": {
+            "type": "none",
+            "value": ""
+          }
+        },
+        {
+          "image": "/images/python.svg",
+          "name": "Ship",
+          "colors": {
+            "default": "orange",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "link",
+            "value": "elite-ship"
+          }
+        },
+        {
+          "image": "/images/power.svg",
+          "name": "Power",
+          "colors": {
+            "default": "orange",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "link",
+            "value": "elite-power"
+          }
+        }
+      ]
+    },
+    {
+      "columns": [
+        {
+          "image": "/images/combat.svg",
+          "name": "Combat",
+          "colors": {
+            "default": "red",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "link",
+            "value": "elite-combat"
+          }
+        },
+        {
+          "image": "/images/commands.svg",
+          "name": "Commands",
+          "colors": {
+            "default": "orange-light",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "link",
+            "value": "elite-commands"
+          }
+        },
+        {
+          "image": "",
+          "name": "",
+          "colors": {
+            "default": "orange-light",
+            "onclick": "blue-light"
+          },
+          "action": {
+            "type": "none",
+            "value": ""
+          }
+        },
+        {
+          "image": "/images/flightcontrol.svg",
+          "name": "Flight control",
+          "colors": {
+            "default": "orange",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "link",
+            "value": "elite-flightcontrol"
+          }
+        },
+        {
+          "image": "/images/galmap.svg",
+          "name": "Navigation",
+          "colors": {
+            "default": "orange",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "link",
+            "value": "elite-navigation"
+          }
+        }
+      ]
+    }
+  ]
+}

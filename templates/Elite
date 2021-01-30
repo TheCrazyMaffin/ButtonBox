@@ -1,0 +1,89 @@
+Elite
+  Main menu
+    Ship link
+    Targeting link
+    Combat link
+    Flight control link
+    Power link
+    Navigation link
+    Commands link
+    EMPTY
+    EMPTY
+    EMPTY
+  Flight control
+    Speed 0% (1)
+    Speed 75% (2)
+    Throttle reverse (3)
+    Flight assist (4)
+    Frame shift (5)
+    Supercruise (6)
+    Orbit lines (7)
+    EMPTY
+    EMPTY
+    Main Menu Link
+  Targeting
+    Wingman 1 (8)
+    Wingman 2 (9)
+    Wingman 3 (10)
+    Wingman target (11)
+    Wingman nav lock (12)
+    Next system on route (13)
+    Next target (14)
+    EMPTY
+    EMPTY
+    Main menu link
+  Combat
+    Target ahead (15)
+    Next target (14)
+    Next firegroup (17)
+    Previous firegroup (18)
+    Hardpoints (16)
+    Silent running (19)
+    Heatsink (20)
+    Chaff (21)
+    EMPTY
+    Main menu link
+  Ship
+    Sensor zoom + (22)
+    Sensor zoom - (23)
+    Night vision (24)
+    Lights (25)
+    Gear (26)
+    Cargo scoop (27)
+    EMPTY
+    EMPTY
+    EMPTY
+    Main menu link
+  Power
+    Power to ENG (28)
+    Power to WEP (29)
+    Power to SYS (30)
+    Balance power (31)
+    EMPTY
+    EMPTY
+    EMPTY
+    EMPTY
+    EMPTY
+    Main menu link
+  Navigation
+    Galmap (32)
+    System map (33)
+    Next system in route (13)
+    FSS (34)
+    EMPTY
+    EMPTY
+    EMPTY
+    EMPTY
+    EMPTY
+    Main menu link
+  Commands
+    Recall/dismiss Ship (35)
+    Recall fighter (36)
+    Attack target (37)
+    Defend (38)
+    Engage at will (39)
+    Maintain formation (40)
+    Hold (41)
+    Follow me (42)
+    EMPTY
+    Main menu link

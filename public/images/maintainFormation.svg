@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="Layer_2"
+   x="0px"
+   y="0px"
+   width="500"
+   height="500"
+   viewBox="0 0 500 500"
+   enable-background="new 0 0 1830 380.909"
+   xml:space="preserve"
+   sodipodi:docname="maintainFormation.svg"
+   inkscape:version="1.1-dev (25441a5, 2020-10-26)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs13" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1057"
+   id="namedview11"
+   showgrid="false"
+   width="500px"
+   inkscape:zoom="0.32295082"
+   inkscape:cx="606.90355"
+   inkscape:cy="354.54315"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_2" />
+
+<g
+   id="g834"
+   transform="translate(0,197.96339)"><circle
+     cx="250"
+     cy="52.03661"
+     r="52.03661"
+     id="circle2"
+     style="stroke-width:0.273224" /><g
+     id="g8"
+     transform="scale(0.27322404)">
+	<rect
+   y="100.909"
+   width="452"
+   height="180"
+   id="rect4"
+   x="0" />
+	<rect
+   x="1378"
+   y="100.909"
+   width="452"
+   height="180"
+   id="rect6" />
+</g></g>
+</svg>

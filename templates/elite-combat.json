@@ -1,0 +1,132 @@
+{
+  "rows": [
+    {
+      "columns": [
+        {
+          "image": "/images/targeting.svg",
+          "name": "Target ahead",
+          "colors": {
+            "default": "orange",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 15
+          }
+        },
+        {
+          "image": "/images/nextUp.svg",
+          "name": "Next firegroup",
+          "colors": {
+            "default": "orange",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 17
+          }
+        },
+        {
+          "image": "/images/silent.svg",
+          "name": "Silent running",
+          "colors": {
+            "default": "blue",
+            "onclick": "blue-light"
+          },
+          "action": {
+            "type": "button",
+            "value": 19
+          }
+        },
+        {
+          "image": "/images/heatsink.svg",
+          "name": "Heatsink",
+          "colors": {
+            "default": "orange-light",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 20
+          }
+        },
+        {
+          "image": "/images/chaff.svg",
+          "name": "Chaff",
+          "colors": {
+            "default": "orange-light",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 21
+          }
+        }
+      ]
+    },
+    {
+      "columns": [
+        {
+          "image": "/images/targetingNext.svg",
+          "name": "Next target",
+          "colors": {
+            "default": "orange",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 14
+          }
+        },
+        {
+          "image": "/images/nextDown.svg",
+          "name": "Previous firegroup",
+          "colors": {
+            "default": "orange",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 18
+          }
+        },
+        {
+          "image": "/images/hardpoints.svg",
+          "name": "Hardpoints",
+          "colors": {
+            "default": "red",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 16
+          }
+        },
+        {
+          "image": "",
+          "name": "",
+          "colors": {
+            "default": "",
+            "onclick": ""
+          },
+          "action": {
+            "type": "none",
+            "value": ""
+          }
+        },
+        {
+          "image": "/images/home.svg",
+          "name": "Home",
+          "colors": {
+            "default": "green",
+            "onclick": "blue"
+          },
+          "action": {
+              "type": "link",
+            "value": "elite"
+          }
+        }
+      ]
+    }
+  ]
+}

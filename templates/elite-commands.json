@@ -1,0 +1,132 @@
+{
+  "rows": [
+    {
+      "columns": [
+        {
+          "image": "/images/land_recall.svg",
+          "name": "Recall/Dismiss ship",
+          "colors": {
+            "default": "orange",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 35
+          }
+        },
+        {
+          "image": "/images/attack.svg",
+          "name": "Attack target",
+          "colors": {
+            "default": "red",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 37
+          }
+        },
+        {
+          "image": "/images/engageAtWill.svg",
+          "name": "Engage at will",
+          "colors": {
+            "default": "red",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 39
+          }
+        },
+        {
+          "image": "/images/hold.svg",
+          "name": "Hold",
+          "colors": {
+            "default": "orange-light",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 41
+          }
+        },
+        {
+          "image": "/images/follow.svg",
+          "name": "Follow me",
+          "colors": {
+            "default": "orange-light",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 42
+          }
+        }
+      ]
+    },
+    {
+      "columns": [
+        {
+          "image": "/images/land_recall.svg",
+          "name": "Recall fighter",
+          "colors": {
+            "default": "orange-light",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 36
+          }
+        },
+        {
+          "image": "/images/defend.svg",
+          "name": "Defend",
+          "colors": {
+            "default": "orange-light",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 38
+          }
+        },
+        {
+          "image": "/images/maintainFormation.svg",
+          "name": "Maintain formation",
+          "colors": {
+            "default": "orange-light",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 40
+          }
+        },
+        {
+          "image": "",
+          "name": "",
+          "colors": {
+            "default": "",
+            "onclick": ""
+          },
+          "action": {
+            "type": "none",
+            "value": ""
+          }
+        },
+        {
+          "image": "/images/home.svg",
+          "name": "Home",
+          "colors": {
+            "default": "green",
+            "onclick": "blue"
+          },
+          "action": {
+              "type": "link",
+            "value": "elite"
+          }
+        }
+      ]
+    }
+  ]
+}

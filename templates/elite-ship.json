@@ -1,0 +1,132 @@
+{
+  "rows": [
+    {
+      "columns": [
+        {
+          "image": "/images/light.svg",
+          "name": "Lights",
+          "colors": {
+            "default": "orange",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 25
+          }
+        },
+        {
+          "image": "/images/nightvision.svg",
+          "name": "Night vision",
+          "colors": {
+            "default": "orange",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 24
+          }
+        },
+        {
+          "image": "",
+          "name": "",
+          "colors": {
+            "default": "",
+            "onclick": ""
+          },
+          "action": {
+            "type": "none",
+            "value": ""
+          }
+        },
+        {
+          "image": "/images/zoomIn.svg",
+          "name": "Sensor zoom +",
+          "colors": {
+            "default": "orange-light",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 22
+          }
+        },
+        {
+          "image": "/images/zoomOut.svg",
+          "name": "Sensor zoom -",
+          "colors": {
+            "default": "orange-light",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 23
+          }
+        }
+      ]
+    },
+    {
+      "columns": [
+        {
+          "image": "/images/land_recall.svg",
+          "name": "Gear",
+          "colors": {
+            "default": "orange",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 26
+          }
+        },
+        {
+          "image": "/images/cargo.svg",
+          "name": "Cargo scoop",
+          "colors": {
+            "default": "orange",
+            "onclick": "blue"
+          },
+          "action": {
+            "type": "button",
+            "value": 27
+          }
+        },
+        {
+          "image": "",
+          "name": "",
+          "colors": {
+            "default": "orange-light",
+            "onclick": "blue-light"
+          },
+          "action": {
+            "type": "none",
+            "value": ""
+          }
+        },
+        {
+          "image": "",
+          "name": "",
+          "colors": {
+            "default": "",
+            "onclick": ""
+          },
+          "action": {
+            "type": "none",
+            "value": ""
+          }
+        },
+        {
+          "image": "/images/home.svg",
+          "name": "Home",
+          "colors": {
+            "default": "green",
+            "onclick": "blue"
+          },
+          "action": {
+              "type": "link",
+            "value": "elite"
+          }
+        }
+      ]
+    }
+  ]
+}

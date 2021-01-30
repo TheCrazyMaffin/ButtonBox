@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="Layer_2"
+   x="0px"
+   y="0px"
+   width="500"
+   height="500"
+   viewBox="0 0 499.99998 500"
+   enable-background="new 0 0 1758.732 690"
+   xml:space="preserve"
+   sodipodi:docname="hold.svg"
+   inkscape:version="1.1-dev (25441a5, 2020-10-26)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs9" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1057"
+   id="namedview7"
+   showgrid="false"
+   width="500px"
+   inkscape:zoom="0.47522885"
+   inkscape:cx="810.136"
+   inkscape:cy="472.40398"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_2" />
+
+<g
+   id="g828"
+   transform="translate(0,149.34442)"><polygon
+     points="0,690 292.494,690 1089.732,3 797.238,3 "
+     id="polygon2"
+     transform="matrix(0.28429573,0,0,0.28429573,0,2.1471128)" /><polygon
+     points="669,690 961.494,690 1758.732,3 1466.238,3 "
+     id="polygon4"
+     transform="matrix(0.28429573,0,0,0.28429573,0,2.1471128)" /></g>
+</svg>
