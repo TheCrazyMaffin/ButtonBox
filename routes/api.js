@@ -16,7 +16,7 @@ const devices = [vJoyDevice.create(2), vJoyDevice.create(3)];
 const router = express.Router();
 
 function pressButton(buttonNum) {
-  const joystickIndex = Math.floor(buttonNum / 32);
+  const joystickIndex = Math.floor((buttonNum - 1) / 32);
   const buttonIndex = buttonNum - 32 * joystickIndex;
   devices[joystickIndex].buttons[buttonIndex].set(true);
   setTimeout(() => {
