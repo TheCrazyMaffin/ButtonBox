@@ -7,6 +7,7 @@
 const debug = require('debug')('buttonbox:server');
 const http = require('http');
 const app = require('../app');
+const ip = require('ip');
 require('dotenv').config();
 
 /**
@@ -32,7 +33,7 @@ function normalizePort(val) {
  * Get port from environment and store in Express.
  */
 
-const port = normalizePort(process.env.PORT || '3000');
+const port = normalizePort(process.env.PORT || '80');
 app.set('port', port);
 
 /**
@@ -75,6 +76,7 @@ function onListening() {
     ? `pipe ${addr}`
     : `port ${addr.port}`;
   debug(`Listening on ${bind}`);
+  console.log(`Use http://${ip.address()}:${addr.port || addr} to access your ButtonBox`);
 }
 
 /**

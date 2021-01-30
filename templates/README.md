@@ -1,5 +1,10 @@
-## Template formating
+# Adding and modifying templates
+Templates are nothing more than JSON files which then get processed into the site you are viewing. 
 
+## Naming the template
+The new file you create should be named `<name>.json` replacing `<name>` with the name of your ButtonBox module. You can access this module in the browser by going to `/<name>` (You still need your server address infront, either `localhost` or the IP-address of your PC incase you are using it on another device within the same network.)
+## Template formating
+This is the template they are following
 ```json
 {
   "rows": [//Array of rows the button box should have
@@ -11,11 +16,11 @@
           "name": "",//The name to display bellow the image
           "colors": {//The colors of the images
             "default": "", //See below for available colors
-            "onclick": ""
+            "onclick": "" //Leave both empty if you do not wish to recolor the SVGs
           },
           "action": {//What happens when clicked
             "type": "",//Either button or link.
-            "value": ""//Template name or button number (1-32)
+            "value": ""//Template name or button number
             //The link can be used to create sub-menus
           }
         }
@@ -24,9 +29,41 @@
   ]
 }
 ```
+You do not have to have 2 rows with 5 columns each. You might aswell make as many columns as you'd like. At some point you might need to scroll to navigate the button box. Try to think about sub-menus using links instead of scrolling.
+
+### Documentation
+**JSON**
+| Property | Type | Note |
+| --- | --- | --- |
+| rows | Array[Row] | |
+
+**Row**
+| Property | Type | Note |
+| --- | --- | --- |
+| columns | Array[Column] | |
+
+**Column**
+| Property | Type | Note |
+| --- | --- | --- |
+| image | String | The URL to the Image displayed (I recommend using SVGs) |
+| name | String | The name displayed bellow the image (Can be `""` to not display any name)|
+| colors | ColorObject | |
+| action | Action | Whatever happens when clicked |
+
+**ColorObject**
+| Property | Type | Note |
+| --- | --- | --- |
+| default | String | The color the image should be recolored in. (Leave empty to not change the color) |
+| active | String | The color the image should be recolored in when clicked. (Leave empty to not change the color when clicked) |
+
+**Action**
+| Property | Type | Note |
+| --- | --- | --- |
+| type | String | One of `link` or `button`. `button` presses the joystick button which is set as `this.value` when clicked and `link` redirects to the template specified in `this.value` when clicked |
+| value | Integer or String | Either the button index (>0, It does **not** start at 0) or the name of the template without the `.json` file extension.
 
 ### Colors
-The available colors are
+The available colors by default are
 * orange
 * orange-light
 * red
@@ -40,3 +77,4 @@ If you wish to add more see `_colors.sass` in /public/stylesheets. Follow this f
   filter: brightness(0) saturate(100%) <the actual color>
 ```
 Replace colorName with the name you'd like to use for the color and for <the actual color\> insert your hex color [here](https://codepen.io/sosuke/pen/Pjoqqp) and paste the output replacing <the actual color\>
+You might aswell already color the SVGs but using this you can recolor them afterwards.
