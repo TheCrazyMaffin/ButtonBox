@@ -1,6 +1,13 @@
 # ButtonBox for Windows
 This project enables all devices with a modern webbrowser (Mobile, Tablett/Laptop/PC) connected to your local network to send joystick-inputs to your PC. The interface is fully and easily customizable allowing up to 512 custom actions to be available at a time.
 
+Join me on a ride while I show you around the ButtonBox. **Click on the image bellow** to open the YouTube video
+
+[![Example video](https://i.imgur.com/5kiCRyA.png)](https://www.youtube.com/watch?v=w4HYyp1zWLA)
+
+![Example Setup](https://i.imgur.com/xwbIx9h.jpeg)
+Example Setup with a ButtonBox for Elite Dangerous. The tablet in the bottom left is the ButtonBox while playing on the main monitor in the middle.
+
 ## Installation and Usage
 ### Prerequisites
 #### NodeJS
@@ -25,6 +32,8 @@ vJoy can be downloaded [here](https://sourceforge.net/projects/vjoystick/). vJoy
 3. Open the link from step 1 in the browser of the device and select the ButtonBox you want to open.
 4. Press the "Go fullscreen" button to use the ButtonBox.
 5. Go into the Keybind settings of the application you want to use the ButtonBox with and assign the fitting buttons (When prompted to assign a Input press the button on the ButtonBox). **You need to do this for all the buttons**
+
+For the best experience set your ButtonBox device to not go to sleep.
 
 ## Contribution
 Please refer to the README in `/templates` if you want to make your own ButtonBox layout. **It's super easy, I promise**
