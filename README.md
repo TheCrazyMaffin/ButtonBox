@@ -42,4 +42,4 @@ Please refer to the README in `/templates` if you want to make your own ButtonBo
 This project has been tested with node v14.15.0 and with and version 536 of vJoy.
 
 ## License
-This project is licensed GNU GPL version 3. You will find a copy of this license in the `LICENSE` file.
+This project is licensed by the GNU GPL version 3. You will find a copy of this license in the `LICENSE` file.
