@@ -59,8 +59,27 @@ You do not have to have 2 rows with 5 columns each. You might aswell make as man
 **Action**
 | Property | Type | Note |
 | --- | --- | --- |
-| type | String | One of `link` or `button`. `button` presses the joystick button which is set as `this.value` when clicked and `link` redirects to the template specified in `this.value` when clicked |
-| value | Integer or String | Either the button index (>0, It does **not** start at 0) or the name of the template without the `.json` file extension.
+| type | ActionType |  |
+| value | ActionValue | |
+
+**ActionType and Value**
+| ActionType | ActionValue | Note |
+| --- | --- | --- |
+| button | Integer | Press a button on the virtual joystick |
+| link | String | Open another template (Name is the name in this folder without `.json`) |
+| action | String(SpecialAction) | |
+
+**SpecialAction**
+| Value | Note |
+| --- | --- |
+| audio_play | Does exactly what the name says |
+| audio_pause | |
+| audio_next | Next track |
+| audio_prev | Previous track |
+| audio_mute | |
+| audio_vol_down | |
+| audio_vol_up | |
+| audio_stop | |
 
 ### Colors
 The available colors by default are
