@@ -21,6 +21,8 @@
               <figure onclick="window.location.href='/<%= column.action.value %>/iframe'">
             <% }else if(column.action.type === 'button'){ %>
               <figure onclick="buttonPress(<%= column.action.value %>)">
+            <% }else if(column.action.type === 'action'){ %>
+              <figure onclick="doAction('<%= column.action.value %>')">
             <% }else{ %>
               <figure>
             <% } %>

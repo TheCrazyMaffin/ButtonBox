@@ -1,0 +1,132 @@
+{
+  "rows": [
+    {
+      "columns": [
+        {
+          "image": "/images/discord/mic_off.svg",
+          "name": "Un/Mute",
+          "colors": {
+              "default": "blurple",
+            "onclick": "greyple"
+          },
+          "action": {
+            "type": "button",
+            "value": 63
+          }
+        },
+        {
+          "image": "/images/discord/audio_play.svg",
+          "name": "Play",
+          "colors": {
+            "default": "greyple",
+            "onclick": "blurple"
+          },
+          "action": {
+            "type": "action",
+            "value": "audio_play"
+          }
+        },
+        {
+          "image": "/images/discord/audio_prev.svg",
+          "name": "Play",
+          "colors": {
+            "default": "greyple",
+            "onclick": "blurple"
+          },
+          "action": {
+            "type": "action",
+            "value": "audio_prev"
+          }
+        },
+        {
+          "image": "/images/discord/audio_next.svg",
+          "name": "Play",
+          "colors": {
+            "default": "greyple",
+            "onclick": "blurple"
+          },
+          "action": {
+            "type": "action",
+            "value": "audio_next"
+          }
+        },
+        {
+          "image": "",
+          "name": "",
+          "colors": {
+            "default": "",
+            "onclick": ""
+          },
+          "action": {
+            "type": "none",
+            "value": ""
+          }
+        }
+      ]
+    },
+    {
+      "columns": [
+        {
+          "image": "/images/discord/headset_off.svg",
+          "name": "Un/deafen",
+          "colors": {
+            "default": "blurple",
+            "onclick": "greyple"
+          },
+          "action": {
+            "type": "button",
+            "value": 64
+          }
+        },
+        {
+          "image": "/images/discord/audio_pause.svg",
+          "name": "Pause",
+          "colors": {
+            "default": "greyple",
+            "onclick": "blurple"
+          },
+          "action": {
+            "type": "action",
+            "value": "audio_pause"
+          }
+        },
+        {
+          "image": "",
+          "name": "",
+          "colors": {
+            "default": "",
+            "onclick": ""
+          },
+          "action": {
+            "type": "none",
+            "value": ""
+          }
+        },
+        {
+          "image": "",
+          "name": "",
+          "colors": {
+            "default": "",
+            "onclick": ""
+          },
+          "action": {
+            "type": "none",
+            "value": ""
+          }
+        },
+        {
+          "image": "",
+          "name": "",
+          "colors": {
+            "default": "",
+            "onclick": ""
+          },
+          "action": {
+            "type": "none",
+            "value": ""
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -16,6 +16,12 @@
 .blue-light, .blue-light-active:active {
   filter: brightness(0) saturate(100%) invert(46%) sepia(99%) saturate(1415%) hue-rotate(163deg) brightness(102%) contrast(101%); }
 
+.blurple, .blurple-active:active {
+  filter: brightness(0) saturate(100%) invert(57%) sepia(35%) saturate(902%) hue-rotate(192deg) brightness(91%) contrast(86%); }
+
+.greyple, .greyple-active:active {
+  filter: brightness(0) saturate(100%) invert(74%) sepia(6%) saturate(657%) hue-rotate(160deg) brightness(89%) contrast(91%); }
+
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
